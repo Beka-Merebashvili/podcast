@@ -1,5 +1,9 @@
 const CreatePodcast = () => {
-    return ( <div className="text-white">This is create podcast page</div> );
-}
- 
+  return (
+    <div>
+      <h1 className="text-20 font-bold text-white-1">CreatePodcast</h1>
+    </div>
+  );
+};
+
 export default CreatePodcast;
